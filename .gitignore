@@ -8,3 +8,8 @@
 /captures
 /.idea/dictionaries
 /monkeytong.jks
+/WeChatLuckyMoney2.iml
+!/app/app.iml
+/.idea/
+/app/app.iml
+/.idea/modules.xml
